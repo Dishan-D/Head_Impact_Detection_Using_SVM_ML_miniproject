@@ -113,7 +113,7 @@ plot_roc_pr_curves() → generate_output_plots()
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Dishan-D/ML_Miniproject_Head-Impact-Detection-Using-SVM-Classifier.git
+git clone https://github.com/Dishan-D/Head_Impact_Detection_Using_SVM_ML_miniproject.git
 cd Head-Impact-Classifier-SVM
 ```
 
